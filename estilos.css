@@ -1,0 +1,25 @@
+/* Mis estilos */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #424544;
+}
+
+#header {
+    width: 100%;
+    height: 600px;
+    background: #fff;
+    position: relative;
+    opacity: 0;
+}
+
+#element {
+    width: 100%;
+    height: 6000px;
+    background: #000;
+    position: relative;
+}
